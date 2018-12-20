@@ -11,4 +11,7 @@ Microsoft recently added a shift+right-click context menu option for opening the
 3. Import/Run the regedit file.
 
 # Usage:
- Shift+right-click in a directory and select the "Open Linux Shell Here" option. Ubuntu 18.04 should launch in the working directory if it is installed.
+ Shift+right-click in a directory and select the "Open Linux Shell Here" option. Your distro should launch in the working directory.
+
+# Additional info:
+Check [the wiki](https://github.com/CJShearer/Open-My-Distro-Here/wiki) for a project "post-mortem".
